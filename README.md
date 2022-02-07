@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">information security student at SUAP</h3>
+<h3 align="center">information security student at SUAI</h3>
 
 - 📫 How to reach me **nik14626@mail.ru**
 
