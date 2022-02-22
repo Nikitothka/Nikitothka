@@ -14,3 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitothka&show_icons=true&locale=en" alt="nikitothka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitothka&" alt="nikitothka" /></p>
+<iframe frameborder="0" style="border:none;width:100%;height:180px;" width="100%" height="180" src="https://music.yandex.ru/iframe/#track/628970/67408">Слушайте <a href='https://music.yandex.ru/album/67408/track/628970'>I Hate Everything About You</a> — <a href='https://music.yandex.ru/artist/184100'>Three Days Grace</a> на Яндекс.Музыке</iframe>
