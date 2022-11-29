@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Nikita, <br>I am studying in the specialty Information security of automated systems in SUAI<br><br>I create bots, a usbot, and administer the team's servers <br><br>📫 How to contact me:<br>mail - nik14626@mail.ru<br>telegram - @nikitothka
+Hi, I'm Nikita, <br>I am studying in the specialty Information security of automated systems in SUAI<br><br>I create bots, a userbot, and administer the team's servers <br><br>📫 How to contact me:<br>mail - nik14626@mail.ru<br>telegram - @nikitothka
 
 
 # 💻 Tech Stack:
