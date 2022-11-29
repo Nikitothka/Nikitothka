@@ -16,4 +16,4 @@ Hi, I'm Nikita, <br>I am studying in the specialty Information security of autom
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nikitothka&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nikitothka&icon=1&color=6)](https://github.com/Nikitothka/Nikitothka)
